@@ -3,6 +3,11 @@
 Public code of software Robust Curvelet IQA described in article:
 
 Robust statistics and no-reference image quality assessment in Curvelet domain.
+
+Published in XIV Workshop de Visão Computacional (WVC 2018), Ilhéus BA, Brazil.
+
+It is available for consultation at,
+
 url:
 
 ### Prerequisites
