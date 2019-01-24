@@ -1,8 +1,13 @@
-Robust Curvelet IQA release version:
+####################################################################
+
+##########   Robust Curvelet IQA release version:   ###############
+
+##################################################################
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-This is a demonstration of software Robust Curvelet IQA described in article:
+Public code of software Robust Curvelet IQA described in article:
 
 NOME do ARTIGO
 
@@ -69,6 +74,5 @@ Use a shell script "usefull_script.sh" to make a scores for a batch of images.
 ########### Model Generator: ###############
 
 will appear soon
-
 
 
