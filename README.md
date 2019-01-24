@@ -1,4 +1,4 @@
-Robust Curvelet IQA release version:
+#Robust Curvelet IQA release version:
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
