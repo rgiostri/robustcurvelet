@@ -32,7 +32,7 @@ $ python RCurvelet_Features.py path/to/input_image.jpg path/to/output_file.csv i
 Watch out for models in models folder.
 
 This module uses trained models. 
-In the example, trained models with the classes jpeg, jp2k, Gaussian white noise and Gaussian Blur of experiments LIVE IQA, TID2013 and CSIQ are available
+The models were trained with classes jpge, jp2k, Gaussian white noise and Gaussin Blur of data sets Live IQA, TID2013 and CSIQ.
 
 The name of the models follows a fixed structure: 
 a) Regressor models name is: regressor_class_DEGRADATION_model.pkl
