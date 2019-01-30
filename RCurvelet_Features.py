@@ -120,7 +120,7 @@ def split_images_block(image,block=(256,256)):
             #print cont
             #print (block_m*i,block_n*i+m)
             #print (block_m*j,block_n*j+m)
-            sample[:,:,cont]=image[block_m*i:block_m*i+m,block_n*j:block_n*j+m];
+            sample[:,:,cont]=image[block_m*i:block_m*i+m,block_n*j:block_n*j+n];
             cont+=1
     return sample, Mdm,Ndn
 
