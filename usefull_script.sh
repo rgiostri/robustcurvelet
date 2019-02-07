@@ -47,7 +47,7 @@ mkdir $output_folder # output folder
 
 for i in $input_folder/*.$in_extension
 	do
-	let cont++
+	cont=$(( cont+1 ))
 	echo 'File '$cont' of '$total_files
 	
 	python RCurvelet_Features.py $i ./$output_folder/$output_file
