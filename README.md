@@ -8,7 +8,9 @@ Published in XIV Workshop de Visão Computacional (WVC 2018), Ilhéus BA, Brazil
 
 It is available for consultation at,
 
-url:
+http://www.wvc2018.com.br/proceedings
+
+arxiv:
 
 ### Prerequisites
 
