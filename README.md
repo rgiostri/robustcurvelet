@@ -10,7 +10,9 @@ It is available for consultation at,
 
 http://www.wvc2018.com.br/proceedings
 
-arxiv:
+arxiv no double blind version at,
+
+https://arxiv.org/abs/1902.03842
 
 ### Prerequisites
 
